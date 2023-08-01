@@ -1,6 +1,4 @@
 package HangmanProject;
-
-//  The hangman star drawing is left
 import java.util.*;
 
 public class HangmanGame {
@@ -105,7 +103,6 @@ public class HangmanGame {
 			System.out.println("     /|\\      ");
 			System.out.println("      |       ");
 			System.out.println("     / \\      ");
-//			System.out.println("             ");
 		}
 	}
 }
